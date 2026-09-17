@@ -1,6 +1,14 @@
 # Mini-Project 2 — MediCare Outpatient Visits: End-to-End Data Analysis
+# 🏥 Clinic Visits Analysis
 
-**Python for Full Stack Data Science with AI & Generative AI · Naresh IT · Lead Trainer: Ajit Byru**
+**[One sentence: what this project does. Example: Analyzes clinic visit data to find busy days, common reasons for visits, and patient trends.]**
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+🔗 **Live Demo:** (coming soon)
+
 
 You are the data analyst for MediCare's outpatient clinic. The administrator has one year of visit records and needs answers she can act on in 2026. Your job: clean the data honestly, answer five guided questions with charts, investigate one question of your own, and present a recommendation.
 
@@ -90,12 +98,3 @@ Works in Google Colab (upload the CSV) or locally:
 pip install numpy pandas matplotlib jupyter
 jupyter notebook clinic_visits_analysis_student.ipynb
 ```
-# 🏥 Clinic Visits Analysis
-
-**[One sentence: what this project does. Example: Analyzes clinic visit data to find busy days, common reasons for visits, and patient trends.]**
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
-🔗 **Live Demo:** (coming soon)
