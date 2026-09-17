@@ -90,3 +90,12 @@ Works in Google Colab (upload the CSV) or locally:
 pip install numpy pandas matplotlib jupyter
 jupyter notebook clinic_visits_analysis_student.ipynb
 ```
+# 🏥 Clinic Visits Analysis
+
+**[One sentence: what this project does. Example: Analyzes clinic visit data to find busy days, common reasons for visits, and patient trends.]**
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+🔗 **Live Demo:** (coming soon)
