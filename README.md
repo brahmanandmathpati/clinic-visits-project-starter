@@ -1,7 +1,7 @@
 # Mini-Project 2 — MediCare Outpatient Visits: End-to-End Data Analysis
 # 🏥 Clinic Visits Analysis
 
-**[One sentence: what this project does. Example: Analyzes clinic visit data to find busy days, common reasons for visits, and patient trends.]**
+**Analyzes clinic visit data to find busy days, common reasons for visits, and patient trends.**
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
