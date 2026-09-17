@@ -117,4 +117,4 @@ Works in Google Colab (upload the CSV) or locally:
 ```bash
    jupyter notebook
 ```
-   Then open `[your-notebook-name].ipynb` and run all cells.
+   Then open `clinic_visits_analysis_student.ipynb` and run all cells.
