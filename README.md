@@ -7,7 +7,13 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-🔗 **Live Demo:** (coming soon)
+🔗 **Live Demo:** 
+
+![Project Screenshot](assets/Q1.png)
+![Project Screenshot](assets/Q2.png)
+![Project Screenshot](assets/Q3.png)
+![Project Screenshot](assets/Q4.png)
+![Project Screenshot](assets/Q5.png)
 
 
 You are the data analyst for MediCare's outpatient clinic. The administrator has one year of visit records and needs answers she can act on in 2026. Your job: clean the data honestly, answer five guided questions with charts, investigate one question of your own, and present a recommendation.
