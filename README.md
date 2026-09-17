@@ -100,7 +100,21 @@ Because department fees differ enormously — **₹520 in General Medicine versu
 
 Works in Google Colab (upload the CSV) or locally:
 
+## 🚀 How to Run
+
+1. **Clone the repo**
 ```bash
-pip install numpy pandas matplotlib jupyter
-jupyter notebook clinic_visits_analysis_student.ipynb
+   git clone https://github.com/brahmanandmathpati/clinic-visits-project-starter.git
+   cd clinic-visits-project-starter
 ```
+
+2. **Install the libraries**
+```bash
+   pip install -r requirements.txt
+```
+
+3. **Open the notebook**
+```bash
+   jupyter notebook
+```
+   Then open `[your-notebook-name].ipynb` and run all cells.
